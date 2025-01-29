@@ -2,5 +2,39 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.27",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "CapsuleTraceRotation",
+			"Enabled": true
+		},
+		{
+			"Name": "ElectronicNodes",
+			"Enabled": true
+		},
+		{
+			"Name": "FastNoiseGenerator",
+			"Enabled": true
+		},
+		{
+			"Name": "FileSDK",
+			"Enabled": true
+		},
+		{
+			"Name": "LowEntryExtStdLib",
+			"Enabled": true
+		},
+		{
+			"Name": "RuntimeAudioImporter",
+			"Enabled": true
+		},
+		{
+			"Name": "RuntimeFilesDownloader",
+			"Enabled": true
+		},
+		{
+			"Name": "VictoryBPLibrary",
+			"Enabled": true
+		}
+	]
 }
